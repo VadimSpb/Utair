@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+/chromedriver
+/links_desktop
+/krd_election/spiders/links_to_res_parser.py
+/krd_election/spiders/
+/dashboards.pptx
+/links_desktop
+/.ipynb_checkpoints/
